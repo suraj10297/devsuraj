@@ -5,4 +5,8 @@ from
 phaltan
 
 wdnwdjvnjvnw
+<<<<<<< HEAD
 dfaidhqaduv
+=======
+acaiscbibbvvq
+>>>>>>> 95179c1b5c26dde6a9726a29b87af179e84c118d
