@@ -1,0 +1,10 @@
+<html>
+<head>
+  <title>Redirect to Text File</title>
+</head>
+<body>
+
+<a href="a.txt">Click here to open a.txt</a>
+
+</body>
+</html>
